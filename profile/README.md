@@ -22,6 +22,7 @@ Below are the highlighted repositories:
 * [CustomInterconnect](https://github.com/UPennEPMLab/CustomInterconnect) - This project extends the Lumerical Interconnect Python API to make it more convenient to make simulations.
 * [WGInterrogator](https://github.com/UPennEPMLab/WGInterrogator) - Python code for generating a "datasheet" of a WG profile for design and simulation using Lumerical's FDE Solver.
 * [GDS_to_COMSOL](https://github.com/UPennEPMLab/GDS_to_COMSOL) - Code for importing GDS files into COMSOL and making basic selections.
+* [FourierPropagator](https://github.com/UPennEPMLab/FourierPropagator) - Code for propagating free-space fields using the Plane-Wave Expansion technique.  Useful for understanding the output of grating couplers.
 
 **Measurement**:
 * [HWPythonInterfaces](https://github.com/UPennEPMLab/HWPythonInterfaces) - A collection of importable files which provide a high-level interface to commonly used lab instrumentation such as power supplies and oscilloscopes.  The goal is to achieve the most common tasks without reading the programmer's manual to learn the SCPI commands.  This makes heave use of pyVISA.
